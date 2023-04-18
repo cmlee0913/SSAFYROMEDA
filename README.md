@@ -122,7 +122,7 @@
       <strong>김성욱</strong></a><br>Backend | Frontend
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/cmlee0913"><strong>이창민</strong></a><br>CI/CI | Frontend
+      <a href="https://github.com/cmlee0913"><strong>이창민</strong></a><br>CI/CD | Frontend | Backend
     </td>
   </tr>
 </table>
